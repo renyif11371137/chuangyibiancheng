@@ -1,4 +1,4 @@
-# chuangyibiancheng9.23
+#结构设计
 void setup()
 {
   size(800,600);
