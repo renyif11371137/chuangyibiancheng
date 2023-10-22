@@ -1,4 +1,3 @@
-#学习蒙德里安
 void setup() {
   size(400, 400);
   background(255);
